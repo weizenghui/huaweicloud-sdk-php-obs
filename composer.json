@@ -2,7 +2,7 @@
 	"name" : "wuwei/esdk-obs-php",
 	"description" : "OBS PHP SDK",
 	"license":"Apache-2.0",
-	"version":"3.21.6",
+	"version":"3.22.0",
 	"require" : {
 		"php" : ">=7.0",
 		"guzzlehttp/guzzle" : "6.3.0",
