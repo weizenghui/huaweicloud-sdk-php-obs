@@ -1,5 +1,5 @@
 {
-	"name" : "huawei\/esdk-obs-php",
+	"name" : "wuwei\/esdk-obs",
 	"description" : "OBS PHP SDK",
 	"license":"Apache-2.0",
 	"version":"3.23.0",
