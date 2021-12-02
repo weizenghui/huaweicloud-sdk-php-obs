@@ -1,5 +1,5 @@
 {
-	"name" : "esdk-obs-php",
+	"name" : "wuwei\/esdk-obs-php",
 	"description" : "OBS PHP SDK",
 	"license":"Apache-2.0",
 	"version":"3.23.0",
